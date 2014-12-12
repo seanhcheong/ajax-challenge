@@ -11,3 +11,13 @@ body {
     margin-right: 10px;
 }
 
+section {
+	border-style: solid;
+	border-width:5px;
+	border-color:grey;
+	margin-bottom:10px;
+	margin-top:10px;
+	padding:10px;
+}
+
+
