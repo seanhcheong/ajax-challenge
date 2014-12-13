@@ -1,3 +1,6 @@
+//Sean Cheong
+//INFO 343
+
 "use strict";
 
 angular.module('ToDoApp', ['ui.bootstrap'])
